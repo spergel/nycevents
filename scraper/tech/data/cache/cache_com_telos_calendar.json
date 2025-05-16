@@ -1,51 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_com_telos_d269plpk",
-      "name": "aci-d club weekly hang",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_telos",
-      "description": "aci-d club is a weekly meetup for designers who wish to playfully work on their personal projects, befriend other creatives, and see the world with brighter eyes.\n\nalongside the core weekly hangouts, aci-d hosts monthly field trips to museums, archives, and galleries, as well as occasional workshops led by guest artists and speakers.",
-      "startDate": "2025-05-14T18:45:00-04:00",
-      "endDate": "2025-05-14T21:15:00-04:00",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://lu.ma/aci-d.club",
-        "organizer": {
-          "name": "telos.haus events [public]",
-          "instagram": "",
-          "email": "d596c2bf721183d22bb50bde6625090fc3923aa29a6918d78409e168da791769@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://lu.ma/aci-d.club",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [
-          "https://instagram.com/aci_d.club",
-          "https://x.com/aci_dclub",
-          "https://aci-d.club"
-        ],
-        "featured": false,
-        "luma_source": true
-      }
-    },
-    {
       "id": "evt_com_telos_5i0nv3iq",
       "name": "tea.haus",
       "type": "Tech",
@@ -92,7 +47,7 @@
       "type": "Tech",
       "locationId": "loc_telos",
       "communityId": "com_telos",
-      "description": "\u200btatosando presents:m\u00f9a xu\u00e2n (spring) cafe pop-up \u2027\u208a\u02da\u2740\u200bhi friends! we\u2019re hosting our first public cafe pop-up this weekend :D come join us at @telos.hausto try our new spring menu inspired by viet flavors, munch on some sweet treats, and vibe to our cool friends live dj sets <3\u200bstay tuned for our menu drop! \u1bd3\u2605\u200blove,tato&sando",
+      "description": "\u200btatosando presents:m\u00f9a xu\u00e2n (spring) cafe pop-up \u2027\u208a\u02da\u2740\u200bhi friends! we\u2019re hosting our first public cafe pop-up this weekend :D come join us at @telos.hausto try our new spring menu inspired by viet flavors, munch on some sweet treats, and vibe to our cool friends live dj sets <3\u200btake a look at ourmenu here! \u1bd3\u2605\u200bcan\u2019t wait to see u soon :3 love,tato&sando",
       "startDate": "2025-05-17T12:00:00-04:00",
       "endDate": "2025-05-17T15:00:00-04:00",
       "category": [
@@ -154,7 +109,7 @@
       "type": "Tech",
       "locationId": "loc_telos",
       "communityId": "com_telos",
-      "description": "\u200bAnyone else feel like today\u2019s musical artists kinda suck on stage?\u00a0They often look lost, stumbling breathlessly through their words, if they can remember them. Their movements are awkward and hampered by clothing that isn\u2019t functional or in line with their energy. Overall, the stars of today and tomorrow seem less sure of themselves on stage. How do we fix that?\u200b\u201cStage Presence\u201d, presented byEdited for Brevity,is a panel on live musical performance, and on how investing in styling, physical training and choreography can take an artist\u2019s live show to the next level.\u200bThe Panelists:\u200bJason Lewisaka RapsTrainer is an LA-based personal trainer with a unique specialization in working with world-touring musicians with emphasis on injury prevention.\u00a0With a deep understanding of the physical demands placed on touring artists,\u00a0Jason's clients include GRAMMY-winning artist Kaytranada, Amine, Teezo Touchdown, Cole Bennett & more.\u200bGigi Todiscois a queer & mixed race choreographer, dancer & movement director based in LA. Gigi choreographed and danced in Kali Uchis'Red Moon in VenusTour, and her 2023 Coachella  set. She's also worked with Post Malone, Tyla, Olivia Rodrigo and more, and has done commercial work for NIKE, New Balance and Vans.\u200bZay Fofanais a New York based stylist, image consultant and director whose clients include Kanye West, A$AP Rocky, Lil Durk and more. He\u2019s styled tours, album cover shoots, music videos, live performances and more, and has done commercial work for brands like Planes, New Balance and Under Armor.\u200bThe Event\u200bJoin us attelos.hausonSaturday, May 17thfor a moderated panel, followed by a mixer.\u00a0Drinks and light bites will be provided.Doors open at 7:00pm.The event is free to attend, but donations are welcome! All guests who RSVP will be automatically added to the Edited For Brevity Substack community.\u200bSchedule\u200b7:00pm \u2013 7:45pm: Doors Open\u200b7:50pm \u2013 8:50pm: Moderated Panel + Q&A\u200b9:00pm \u2013 10:30pm: Mixer + Light Bites & Drinks\u200bAbout the Host\u200bEdited For Brevity is a new music publication and platform founded byEbrima Jassey,with a focus on storytelling, whether that be in the dissection of our favorite songs, or in the stories told by the people behind the scenes. Get in touch ateditedbrevity@gmail.comand keep up with us onSubstack.",
+      "description": "\u200bAnyone else feel like today\u2019s musical artists kinda suck on stage?\u00a0They often look lost, stumbling breathlessly through their words, if they can remember them. Their movements are awkward and hampered by clothing that isn\u2019t functional or in line with their energy. Overall, the stars of today and tomorrow seem less sure of themselves on stage. How do we fix that?\u200b\u201cStage Presence\u201d, presented byEdited for Brevity,is a panel on live musical performance, and on how investing in styling, physical training and choreography can take an artist\u2019s live show to the next level.\u200bThe Panelists:\u200bJason Lewisaka RapsTrainer is an LA-based personal trainer with a unique specialization in working with world-touring musicians with emphasis on injury prevention.\u00a0With a deep understanding of the physical demands placed on touring artists,\u00a0Jason's clients include GRAMMY-winning artist Kaytranada, Amine, Teezo Touchdown, Cole Bennett & more.\u200bGigi Todiscois a queer & mixed race choreographer, dancer & movement director based in LA. Gigi choreographed and danced in Kali Uchis'Red Moon in VenusTour, and her 2023 Coachella  set. She's also worked with Post Malone, Tyla, Olivia Rodrigo and more, and has done commercial work for NIKE, New Balance and Vans.\u200bZay Fofanais a New York based stylist, image consultant and director whose clients include Kanye West, A$AP Rocky, Lil Durk and more. He\u2019s styled tours, album cover shoots, music videos, live performances and more, and has done commercial work for brands like Planes, New Balance and Under Armor.\u200bThe Event\u200bJoin us attelos.hausonSaturday, May 17thfor a moderated panel, followed by a mixer.\u00a0Drinks and light bites will be provided, courtesy of Nami Matcha & VegoBears.Doors open at 7:00pm.The event is free to attend, but donations are welcome! All guests who RSVP will be automatically added to the Edited For Brevity Substack community.\u200bSchedule\u200b7:00pm \u2013 7:45pm: Doors Open\u200b7:50pm \u2013 8:50pm: Moderated Panel + Q&A\u200b9:00pm \u2013 10:30pm: Mixer + Light Bites & Drinks\u200bAbout the Host\u200bEdited For Brevity is a new music publication and platform founded byEbrima Jassey,with a focus on storytelling, whether that be in the dissection of our favorite songs, or in the stories told by the people behind the scenes. Get in touch ateditedbrevity@gmail.comand keep up with us onSubstack.",
       "startDate": "2025-05-17T19:00:00-04:00",
       "endDate": "2025-05-17T22:30:00-04:00",
       "category": [
@@ -196,7 +151,9 @@
           }
         ],
         "social_links": [
+          "https://instagram.com/editedbrevity",
           "https://instagram.com/ebr.ima",
+          "https://instagram.com/editedbrevity",
           "https://instagram.com/ebr.ima"
         ],
         "featured": false,
@@ -616,7 +573,7 @@
       "type": "Tech",
       "locationId": "loc_telos",
       "communityId": "com_telos",
-      "description": "\u200bWork in Progress NYC\u2019s third annual showcase invites attendees to engage with works spanning a variety of mediums \u2013 poetry, painting, ceramics, music, dance, video, sculpture, print, and more \u2013 that exploreresonance,memory, andconnectionacross time and space.\u200bFood & beverages will be available for purchase.\u200bSchedule\u200bDoors Open- 4:30pmGallery Start- 5:00pmPerformances- 7:00pm\u200bWhat is Work in Progress?\u200bWork In Progress NYC is a monthly series where interdisciplinary creatives share projects they\u2019re working on for feedback and dialogue. It\u2019s a safe and conscious space focused on being raw and vulnerable with whatever stage of creation people are at instead of focused on presenting a finished and polished project. Our larger showcases like this one serve as a space to share more polished projects, celebrate each other's work, and give our artists an opportunity to share their art with a wider audience.\u200bPrice and Accessibility commitment\u200bWe want all our events to be accessible to everyone regardless of background or financial status. The pricing shown here is just to help us break even with costs of hosting the event and we don't make any profit off of these. If you have difficulties paying for the event, reach out to us@workinprogressnycand we can arrange entry passes for you.",
+      "description": "\u200bWork in Progress NYC\u2019s third annual showcase invites attendees to engage with works spanning a variety of mediums \u2013 poetry, painting, ceramics, music, dance, video, sculpture, print, and more \u2013 that exploreresonance,memory, andconnectionacross time and space.\u200bFood & beverages will be available for purchase.\u200bSchedule\u200bDoors Open- 4:30pmGallery Start- 5:00pmPerformances- 7:30pm - 9:30pmPerformances will last 90 mins with a break and include live music, dance, spoken word and film.\u200bWhat is Work in Progress?\u200bWork In Progress NYC is a monthly series where interdisciplinary creatives share projects they\u2019re working on for feedback and dialogue. It\u2019s a safe and conscious space focused on being raw and vulnerable with whatever stage of creation people are at instead of focused on presenting a finished and polished project. Our larger showcases like this one serve as a space to share more polished projects, celebrate each other's work, and give our artists an opportunity to share their art with a wider audience.\u200bPrice and Accessibility commitment\u200bWe want all our events to be accessible to everyone regardless of background or financial status. The pricing shown here is just to help us break even with costs of hosting the event and we don't make any profit off of these. If you have difficulties paying for the event, reach out to us@workinprogressnycand we can arrange entry passes for you.",
       "startDate": "2025-05-30",
       "endDate": "2025-06-02",
       "category": [

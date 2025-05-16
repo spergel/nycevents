@@ -63,7 +63,7 @@
       "type": "Tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "\u200bCome hang out with friends, hear some lightning talks about NYC city/state politics, find collaborators for your own political schemes, and have a good time!\u200bYou'll enjoy the company of MNY alumni, people from theabundance movementgenerally, and other guests.\u200bThere will be drinks and snacks!\u200bThere will be a short presentation of no more than 10 minutes, and we will go over the following:\u200bThe New York City rent regulation system, which oversees about a million housing units. It's the housing that Abundance has yet to fully embrace, and we are inRGB season.\u200bThe mayoral charter revision commission (CRC), and their recentlyreleased preliminary report. The CRC will put charter amendments directly on our November ballot, and they will be some of the most consequential votes you'll cast in a while.\u200bOther ways to get involved and stay up-to-date with politics in NYC and NYS.\u200bAnd: a live quiz on NYC government (if you want to participate)! The winner gets a bundle of prizes!\u200bKnow before you arrive:This event will be guided by thefour rules of etiquettethat guide all Maximum New York classes, and is generally for people who mostly agree withThe Sensible Seventy.",
+      "description": "\u200bCome hang out with friends, hear some lightning talks about NYC city/state politics, find collaborators for your own political schemes, and have a good time!\u200bYou'll enjoy the company of MNY alumni, people from theabundance movementgenerally, and other guests.\u200bThere will be drinks and snacks!\u200bThere will be a short presentation of no more than 10 minutes, and we will go over the following:\u200bThe New York City rent regulation system, which oversees about a million housing units. It's the housing that Abundance has yet to fully embrace, and we are inRGB season.\u200bThe mayoral charter revision commission (CRC), and their recentlyreleased preliminary report. The CRC will put charter amendments directly on our November ballot, and they will be some of the most consequential votes you'll cast in a while.\u200bOther ways to get involved and stay up-to-date with politics in NYC and NYS.\u200bDetails on the Abundance Resolution you will be able to vote on duringthe June MNY meeting!\u200bAnd: a live quiz on NYC government (if you want to participate)! The winner gets a bundle of prizes!\u200bKnow before you arrive:This event will be guided by thefour rules of etiquettethat guide all Maximum New York classes, and is generally for people who mostly agree withThe Sensible Seventy.",
       "startDate": "2025-05-17T18:30:00Z",
       "endDate": "2025-05-17T20:30:00Z",
       "category": [
@@ -473,6 +473,58 @@
           "https://x.com/pavitthrap",
           "https://x.com/pavitthrap"
         ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_fractal__clr78ba",
+      "name": "\ud83e\udde0\ud83c\udf3f Neurohacking & Biohacking NYC @ Fractal Tech",
+      "type": "Tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "\u200bMeetup for brain health, wellness, and real-world optimization\u200bThis meetup gathers people who experiment daily with how to sleep better, think clearer, move stronger, and feel more alive. From adding choline to your diet with duck eggs,  stacking magnesium and red light before bed, to training brainwaves with neurofeedback for sharper focus,  hese are the kinds of practical hacks and routines shared here.\u200bExpect short talks on brain health, nervous system tuning, and cognitive performance. See demos of EEG headbands, neurostimulation tools, wearables, and focus tech. Join open conversations about cold exposure, supplementation, sleep routines, and other biohacks that make a difference.\u200bCome connect with folks who take energy, clarity, and longevity seriously. People who push beyond default settings and build their own systems for better living.\u200bWho should come:\u200bSleep trackers, supplement stackers, and mental clarity seekers\u200bFitness and wellness enthusiasts looking for deeper hacks\u200bNeurotech fans experimenting with focus and recovery tools\u200bAnyone curious about optimizing body and mind\u200bDisclaimer: By attending this event you agree to hold the host harmless to anything you learn, do, or try associated with the event",
+      "startDate": "2025-05-31T18:00:00Z",
+      "endDate": "2025-05-31T22:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-84b02d7d.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/bt7doli8",
+        "organizer": {
+          "name": "Fractal Tech: NYC",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [
+          {
+            "name": "Simon Hakimian",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Simon Hakimian",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [],
         "featured": false,
         "luma_source": true
       }
@@ -1000,6 +1052,67 @@
       }
     },
     {
+      "id": "evt_com_fractal__clr78bb",
+      "name": "Maximum New York June Party & Abundance Politics Accelerator",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "\u200bCome hang out with friends, hear some lightning talks about NYC city/state politics, find collaborators for your own political schemes, and have a good time!\u200bYou'll enjoy the company of MNY alumni, people from theabundance movementgenerally, and other guests.\u200bThere will be drinks and snacks!\u200bThe formal business agenda will be posted soon. It will include:\u200bPresentations of no more than ~10 minutes\u200bDetails on the Abundance Resolution that attendees may vote on.\u200bUpdates on city and state politics!\u200bKnow before you arrive:This event will be guided by thefour rules of etiquettethat guide all Maximum New York classes, and is generally for people who mostly agree withThe Sensible Seventy.",
+      "startDate": "2025-06-21T18:30:00Z",
+      "endDate": "2025-06-21T20:30:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9fe1da4f.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/u8spi6zi",
+        "organizer": {
+          "name": "Fractal Tech: NYC",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea StBrooklyn, NY 11211, USA\nBrooklyn, NY 11211, USA",
+          "type": "Offline"
+        },
+        "speakers": [
+          {
+            "name": "Daniel Golliher",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Daniel Golliher",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://x.com/danielgolliher",
+          "https://linkedin.com/in/maximumnewyork",
+          "https://maximumnewyork.com",
+          "https://x.com/danielgolliher",
+          "https://x.com/danielgolliher",
+          "https://linkedin.com/in/maximumnewyork",
+          "https://maximumnewyork.com",
+          "https://x.com/danielgolliher"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
       "id": "evt_com_fractal__clr78ba",
       "name": "In Bloom",
       "type": "Tech",
@@ -1020,7 +1133,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": "",
-      "image": "luma-event-ee64b9b1.jpg",
+      "image": "luma-event-dd336165.jpg",
       "status": "upcoming",
       "metadata": {
         "source_url": "https://lu.ma/g1uekza6",

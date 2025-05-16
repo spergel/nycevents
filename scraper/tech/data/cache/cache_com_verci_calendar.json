@@ -1,156 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_com_verci__clr78bb",
-      "name": "Monday Girl: Women In Creative Industries",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "\u200bJoin Monday Girl and Verci for a night of real conversations, creative energy, and connections that actually go somewhere.\u200bThis is a happy hour for NYC\u2019s creative women across media, fashion, content, design, and more.\u200bWhat to expect:\u200b\u2013 Curated networking that feels natural, not forced\u200b\u2013 Thoughtful conversation prompts (skip the small talk)\u200b\u2013 A beautiful setting inside Verci\u2019s flagship Flatiron space\u200bWhether you\u2019re building your brand, launching something new, or just want to meet other women doing cool things\u2014this night is for you.\u200bCapacity is limited. Come early, bring your best ideas, and leave with a few new contacts worth texting.\u200b\ud83c\udf9f\ufe0fTickets: FREE for members; $15.00 for non-members\u200bGiven limited capacity, this will be invitation-only.\u200bAbout Verci\u200bVerci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more atverci.comand read our manifesto atverci.com/manifesto.\u200bLearn more here:https://www.verci.com/\u200bAbout Monday Girl\u200b\u200bEver felt like the only woman in the room? We've been there too. Welcome to a community where high-achieving women are the rule, not the exception. Say goodbye to feeling outnumbered and overlooked. Monday Girl Members get access to a private network of mentors from top companies, invites to exclusive events, career resources, and more.\u200b\u200b\u200bApply:https://joinmondaygirl.com/Social:@joinmondaygirl",
-      "startDate": "2025-05-14T22:30:00Z",
-      "endDate": "2025-05-15T01:00:00Z",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "luma-event-7e28ad74.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://lu.ma/MGxVerci",
-        "organizer": {
-          "name": "Verci Events",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "45 E 20th StNew York, NY 10003, USA\nNew York, NY 10003, USA",
-          "type": "Offline"
-        },
-        "speakers": [
-          {
-            "name": "Monday Girl",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Monday Girl",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          }
-        ],
-        "social_links": [
-          "https://instagram.com/joinmondaygirl",
-          "https://tiktok.com/@joinmondaygirl",
-          "https://joinmondaygirl.com",
-          "https://instagram.com/mondaygirlto",
-          "https://instagram.com/joinmondaygirl",
-          "https://tiktok.com/@joinmondaygirl",
-          "https://joinmondaygirl.com",
-          "https://instagram.com/mondaygirlto"
-        ],
-        "featured": false,
-        "luma_source": true
-      }
-    },
-    {
-      "id": "evt_com_verci__clr78ba",
-      "name": "Founders' Fest: Verci Founders Pasta-Making Dinner w/ Google Cloud",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "\u200bFounders' Fest is an exclusive event that brings founders together to level up your startup with Google Cloud!  Join us for an curated pasta-making workshop with wine pairing that brings founders together to knead, create, and connect!Experience an unforgettable evening of culinary craftsmanship and wine, meaningful conversations with fellow founders, and enjoying a family-style pasta dinner in Verci's intimate Flatiron space.\u200bSpace is limited to ensure a personal, collaborative experience. Acceptance guarentees entrance.\u200bGoogle Cloudis a suite of public cloud computing services offered by Google, providing a wide range of hosted solutions for computing, storage, AI/ML, big data analytics, networking, and application development that run on Google\u2019s global infrastructure.\u200bVerciis a community for founders, creatives, and operators based in Flatiron.",
-      "startDate": "2025-05-15T22:00:00Z",
-      "endDate": "2025-05-16T00:30:00Z",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "luma-event-ad16d444.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://lu.ma/tldlk2e6",
-        "organizer": {
-          "name": "Verci Events",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron45 E 20th St, New York, NY 10003, USA\n45 E 20th St, New York, NY 10003, USA",
-          "type": "Offline"
-        },
-        "speakers": [
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Collin Sullivan",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Fon Emerson",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Collin Sullivan",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Fon Emerson",
-            "title": "",
-            "bio": ""
-          }
-        ],
-        "social_links": [
-          "https://instagram.com/vercinyc",
-          "https://x.com/vercinyc",
-          "https://tiktok.com/@vercinyc",
-          "https://instagram.com/vercinyc",
-          "https://x.com/vercinyc",
-          "https://tiktok.com/@vercinyc"
-        ],
-        "featured": false,
-        "luma_source": true
-      }
-    },
-    {
       "id": "evt_com_verci__cdgmopb",
       "name": "Craft Society: Leather Bag Making w/ WYNTRO",
       "type": "Tech",
@@ -190,6 +40,89 @@
           "https://instagram.com/vercinyc",
           "https://x.com/vercinyc",
           "https://tiktok.com/@vercinyc"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78ba",
+      "name": "OTWC Season 6: Part VII",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "\u200bOTWC is an NYC-based writing community for online writers to write, exchange ideas, and get inspired. Our sessions look like this:\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b1. \u200b\u200b\u200bIntroduce yourselves and talk about what you plan to write2. \u200b\u200b\u200bFocused writing session3. \u200b\u200b\u200bGet together in small groups and discuss how the session went\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bSnacks and drinks will be provided!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bIf this price is too steep for you for any reason, email us by clicking \"Contact the Host\" on the left and we\u2019ll give you a pay-what-you-can ticket.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bFollow us on Twitter and Instagram @otwc_nyc to stay updated on future events and announcements!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bHope to see you there \ud83e\udd73",
+      "startDate": "2025-05-18T14:00:00Z",
+      "endDate": "2025-05-18T17:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9d9dccf2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/cdddospm",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Please register to see the exact location of this event.\nNew York, New York",
+          "type": "Online"
+        },
+        "speakers": [
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Samika Parab",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Samika Parab",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope"
         ],
         "featured": false,
         "luma_source": true
@@ -308,6 +241,338 @@
           "https://instagram.com/vercinyc",
           "https://x.com/vercinyc",
           "https://tiktok.com/@vercinyc"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78bb",
+      "name": "OTWC Season 6: Part VIII",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "\u200bOTWC is an NYC-based writing community for online writers to write, exchange ideas, and get inspired. Our sessions look like this:\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b1. \u200b\u200b\u200bIntroduce yourselves and talk about what you plan to write2. \u200b\u200b\u200bFocused writing session3. \u200b\u200b\u200bGet together in small groups and discuss how the session went\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bSnacks and drinks will be provided!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bIf this price is too steep for you for any reason, email us by clicking \"Contact the Host\" on the left and we\u2019ll give you a pay-what-you-can ticket.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bFollow us on Twitter and Instagram @otwc_nyc to stay updated on future events and announcements!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bHope to see you there \ud83e\udd73",
+      "startDate": "2025-05-25T14:00:00Z",
+      "endDate": "2025-05-25T17:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9d9dccf2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/dvb97dch",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12New York, NY 10003, USA\nNew York, NY 10003, USA",
+          "type": "Offline"
+        },
+        "speakers": [
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Tommy Heller",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Tommy Heller",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/tommy_heller",
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/tommy_heller"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78ba",
+      "name": "OTWC Season 6: Part IX",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "\u200bOTWC is an NYC-based writing community for online writers to write, exchange ideas, and get inspired. Our sessions look like this:\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b1. \u200b\u200b\u200bIntroduce yourselves and talk about what you plan to write2. \u200b\u200b\u200bFocused writing session3. \u200b\u200b\u200bGet together in small groups and discuss how the session went\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bSnacks and drinks will be provided!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bIf this price is too steep for you for any reason, email us by clicking \"Contact the Host\" on the left and we\u2019ll give you a pay-what-you-can ticket.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bFollow us on Twitter and Instagram @otwc_nyc to stay updated on future events and announcements!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bHope to see you there \ud83e\udd73",
+      "startDate": "2025-06-01T14:00:00Z",
+      "endDate": "2025-06-01T17:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9d9dccf2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/erlw60hr",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Please register to see the exact location of this event.\nNew York, New York",
+          "type": "Online"
+        },
+        "speakers": [
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78b9",
+      "name": "Consumer Founders Happy Hour (Consumer Club x Superwall)",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "\u200bStep into a room with the sharpest minds in consumer apps.\u200b\u200b\u200b\u200bNow\u2019s your chance. Drinks, ideas, and connections worth millions.\u200b\u200b\u200b\u200bIt\u2019s happening at Verci Flatiron and space is limited. Come ready to network, drink, and learn a shitton about consumer apps, creator marketing, & growth hacking.\u200b\u200b\u200b\u200bThis event was brought to you by Superwall via Consumer Club\u200b\u200bSuperwall:superwall.com\u200b\u200bConsumer Club:joinconsumerclub.com",
+      "startDate": "2025-06-04T21:00:00Z",
+      "endDate": "2025-06-05T00:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-54e77bba.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/jtayd9mx",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron45 E 20th St, New York, NY 10003, USA\n45 E 20th St, New York, NY 10003, USA",
+          "type": "Offline"
+        },
+        "speakers": [
+          {
+            "name": "Consumer Club",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Joseph Choi",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Jake Mor",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Vaibhav Vasudevan",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Brett Ambrose",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Consumer Club",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Joseph Choi",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Jake Mor",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Vaibhav Vasudevan",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Brett Ambrose",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://x.com/consumerclub_",
+          "https://joinconsumerclub.com/",
+          "https://instagram.com/joseph.kkc",
+          "https://x.com/josephkchoi",
+          "https://x.com/consumerclub_",
+          "https://joinconsumerclub.com/",
+          "https://instagram.com/joseph.kkc",
+          "https://x.com/josephkchoi"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78bb",
+      "name": "OTWC Season 6: Part X",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "\u200bOTWC is an NYC-based writing community for online writers to write, exchange ideas, and get inspired. Our sessions look like this:\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b1. \u200b\u200b\u200bIntroduce yourselves and talk about what you plan to write2. \u200b\u200b\u200bFocused writing session3. \u200b\u200b\u200bGet together in small groups and discuss how the session went\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bSnacks and drinks will be provided!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bIf this price is too steep for you for any reason, email us by clicking \"Contact the Host\" on the left and we\u2019ll give you a pay-what-you-can ticket.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bFollow us on Twitter and Instagram @otwc_nyc to stay updated on future events and announcements!\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bHope to see you there \ud83e\udd73",
+      "startDate": "2025-06-08T14:00:00Z",
+      "endDate": "2025-06-08T17:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9d9dccf2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/1ib99jjl",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Please register to see the exact location of this event.\nNew York, New York",
+          "type": "Online"
+        },
+        "speakers": [
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope"
         ],
         "featured": false,
         "luma_source": true

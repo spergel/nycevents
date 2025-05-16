@@ -1185,8 +1185,8 @@
       "locationId": "",
       "communityId": "com_nyc_resistor",
       "description": "<u></u><p>NYC Resistor is open to the public for Craft Nights now every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome!</p><p>RSVP at<span> <a href=\"https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-162729866411\">https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-162729866411</a></span> is appreciated but not required, for covid contact-tracing purposes.<br></p>This event like all NYC Resistor events is 18 and over and governed by out code of conduct. <br><br>More information: <a href=\"http://www.nycresistor.com/participate/\">http://www.nycresistor.com/participate/</a><br>NYC Resistor Code of Conduct: <a href=\"http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/\">http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/</a><u></u><u></u><u></u><u></u><u></u>",
-      "startDate": "2025-08-11T18:30:00-04:00",
-      "endDate": "2025-08-11T21:30:00-04:00",
+      "startDate": "2025-08-18T18:30:00-04:00",
+      "endDate": "2025-08-18T21:30:00-04:00",
       "category": [
         "Tech"
       ],
@@ -1226,8 +1226,8 @@
       "locationId": "",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2025-08-11T20:00:00-04:00",
-      "endDate": "2025-08-11T21:00:00-04:00",
+      "startDate": "2025-08-18T20:00:00-04:00",
+      "endDate": "2025-08-18T21:00:00-04:00",
       "category": [
         "Tech"
       ],
@@ -1243,7 +1243,7 @@
       "image": "",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://www.google.com/calendar/event?eid=NW1mOWcyaXY4cW00c242cTRlOTNibzdvczBfMjAyNTA4MTJUMDAwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "source_url": "https://www.google.com/calendar/event?eid=NW1mOWcyaXY4cW00c242cTRlOTNibzdvczBfMjAyNTA4MTlUMDAwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
         "organizer": {
           "name": "",
           "instagram": "",
@@ -1472,8 +1472,8 @@
       "locationId": "",
       "communityId": "com_nyc_resistor",
       "description": "All the fun of a regular craft night with the added safety of a masks-required environment.<br><br>Free (and optional) tickets are available here: <a href=\"https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557\">https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557</a><br><br>This event, like all NYC Resistor events is 18 and over and governed by out code of conduct. <br><br>More information: <a href=\"http://www.nycresistor.com/participate/\"><u>http://www.nycresistor.com/participate/</u></a><br>NYC Resistor Code of Conduct: <a href=\"http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/\"><u>http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/</u></a>",
-      "startDate": "2025-07-16T18:30:00-04:00",
-      "endDate": "2025-07-16T21:30:00-04:00",
+      "startDate": "2025-08-20T18:30:00-04:00",
+      "endDate": "2025-08-20T21:30:00-04:00",
       "category": [
         "Tech"
       ],
@@ -1862,13 +1862,13 @@
     },
     {
       "id": "evt_com_verci__clr78b9",
-      "name": "Verci Japan",
+      "name": "Consumer Founders Happy Hour (Consumer Club x Superwall)",
       "type": "Tech",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "​MORE INFO HERE​We're running our next retreat in Japan from May 23rd until May 26th, with an optional week after until the 1st of June.​Deposits do NOT reflect the full price - the full price of part one of the retreat is $1,450. We'll be collecting the rest of payment at the end of March! Deposits just hold your spot for the retreat.​Deposits & Commitments end on March 25th.​Sign up and commit a deposit by grabbing a ticket on this luma page. Once approved, you'll be 100% good to go to attend - if you don't get approved for capacity reasons, you will not be charged.",
-      "startDate": "2025-05-22T16:00:00Z",
-      "endDate": "2025-06-01T22:00:00Z",
+      "description": "​Step into a room with the sharpest minds in consumer apps.​​​​Now’s your chance. Drinks, ideas, and connections worth millions.​​​​It’s happening at Verci Flatiron and space is limited. Come ready to network, drink, and learn a shitton about consumer apps, creator marketing, & growth hacking.​​​​This event was brought to you by Superwall via Consumer Club​​Superwall:superwall.com​​Consumer Club:joinconsumerclub.com",
+      "startDate": "2025-06-04T21:00:00Z",
+      "endDate": "2025-06-05T00:00:00Z",
       "category": [
         "Tech"
       ],
@@ -1881,10 +1881,10 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": "",
-      "image": "luma-event-01bdc901.jpg",
+      "image": "luma-event-54e77bba.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://lu.ma/08yso6qr",
+        "source_url": "https://lu.ma/jtayd9mx",
         "organizer": {
           "name": "Verci Events",
           "instagram": "",
@@ -1892,28 +1892,70 @@
         },
         "venue": {
           "name": "",
-          "address": "JapanJapan\nJapan",
+          "address": "Verci Flatiron45 E 20th St, New York, NY 10003, USA\n45 E 20th St, New York, NY 10003, USA",
           "type": "Offline"
         },
         "speakers": [
           {
-            "name": "Verci",
+            "name": "Consumer Club",
             "title": "",
             "bio": ""
           },
           {
-            "name": "Verci",
+            "name": "Joseph Choi",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Jake Mor",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Vaibhav Vasudevan",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Brett Ambrose",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Consumer Club",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Joseph Choi",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Jake Mor",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Vaibhav Vasudevan",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Brett Ambrose",
             "title": "",
             "bio": ""
           }
         ],
         "social_links": [
-          "https://instagram.com/vercinyc",
-          "https://x.com/vercinyc",
-          "https://tiktok.com/@vercinyc",
-          "https://instagram.com/vercinyc",
-          "https://x.com/vercinyc",
-          "https://tiktok.com/@vercinyc"
+          "https://x.com/consumerclub_",
+          "https://joinconsumerclub.com/",
+          "https://instagram.com/joseph.kkc",
+          "https://x.com/josephkchoi",
+          "https://x.com/consumerclub_",
+          "https://joinconsumerclub.com/",
+          "https://instagram.com/joseph.kkc",
+          "https://x.com/josephkchoi"
         ],
         "featured": false,
         "luma_source": true
@@ -2084,85 +2126,6 @@
       }
     },
     {
-      "id": "evt_com_verci__clr78ba",
-      "name": "Founders' Fest: Verci Founders Pasta-Making Dinner w/ Google Cloud",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "​Founders' Fest is an exclusive event that brings founders together to level up your startup with Google Cloud!  Join us for an curated pasta-making workshop with wine pairing that brings founders together to knead, create, and connect!Experience an unforgettable evening of culinary craftsmanship and wine, meaningful conversations with fellow founders, and enjoying a family-style pasta dinner in Verci's intimate Flatiron space.​Space is limited to ensure a personal, collaborative experience. Acceptance guarentees entrance.​Google Cloudis a suite of public cloud computing services offered by Google, providing a wide range of hosted solutions for computing, storage, AI/ML, big data analytics, networking, and application development that run on Google’s global infrastructure.​Verciis a community for founders, creatives, and operators based in Flatiron.",
-      "startDate": "2025-05-15T22:00:00Z",
-      "endDate": "2025-05-16T00:30:00Z",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "luma-event-ad16d444.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://lu.ma/tldlk2e6",
-        "organizer": {
-          "name": "Verci Events",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron45 E 20th St, New York, NY 10003, USA\n45 E 20th St, New York, NY 10003, USA",
-          "type": "Offline"
-        },
-        "speakers": [
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Collin Sullivan",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Fon Emerson",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Collin Sullivan",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Fon Emerson",
-            "title": "",
-            "bio": ""
-          }
-        ],
-        "social_links": [
-          "https://instagram.com/vercinyc",
-          "https://x.com/vercinyc",
-          "https://tiktok.com/@vercinyc",
-          "https://instagram.com/vercinyc",
-          "https://x.com/vercinyc",
-          "https://tiktok.com/@vercinyc"
-        ],
-        "featured": false,
-        "luma_source": true
-      }
-    },
-    {
       "id": "evt_com_nyc_resistor_74pmccph",
       "name": "HOLD: NY2CR Ham Exams",
       "type": "Tech",
@@ -2195,47 +2158,6 @@
         "venue": {
           "name": "",
           "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false
-      }
-    },
-    {
-      "id": "evt_com_nyc_resistor_pc3el34f",
-      "name": "Learn to Use a Laser Cutter to Cut and Etch Your Own Designs",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_nyc_resistor",
-      "description": "Vaccination Proof + Mask + RSVP Required\nRSVP https://www.eventbrite.com/e/learn-to-use-a-laser-cutter-to-cut-and-etch-your-own-designs-tickets-1315524522259\n\nHarness the power of an Epilog 60 Watt Laser! In this class you'll learn everything you need.Harness the power of an Epilog 60 Watt Laser! In this class you'll learn everything you need to know to make the ideas in your head become a reality with a laser.\nIn this three hour class, you will learn:\nHow to set up a file for cutting on the laser cutter in Inkscape or Adobe Illustrator.Laser cutter safety including materials testing.Laser cutter operation including configuration, cuts and raster etching in common materials like wood, acrylic, cardboard and others.At the end of class, you will go home with:\nOne laser cut project, either the class default or a simple one of your own design (see below for details)Resistor Laser Certification, enabling you to use our laser on Craft Nights.Please bring the following to class:\nA laptop with either Inkscape (free: download here: https://inkscape.org/release/inkscape-1.2.1/) or Adobe Illustrator installed.\nA USB jump drive\nThe following items are optional if you'd like to try cutting a simple custom design. If your file ends up being too complicated, we may have you do the class default project first, just to learn the laser in the time allotted - but we'll definitely help you with your more complex cut at a free Craft Night in future!\nAn SVG vector file of a simple shape you'd like to cut for your first cut.A piece of 1/8 inch or thinner wood, acrylic or cardboard you'd like to cut. If you can't bring your own material, small pieces will be made available, or larger pieces for purchase on site.Please be on time for the start of class! If you're late you will miss your slot.\nThis class will be taught by NYC Resistor member Katie. As with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
-      "startDate": "2025-05-14T18:00:00-04:00",
-      "endDate": "2025-05-14T21:00:00-04:00",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": "",
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://www.eventbrite.com/e/learn-to-use-a-laser-cutter-to-cut-and-etch-your-own-designs-tickets-1315524522259",
-        "organizer": {
-          "name": "NYCResistor",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -3140,7 +3062,7 @@
       "type": "Tech",
       "locationId": "loc_telos",
       "communityId": "com_telos",
-      "description": "​Work in Progress NYC’s third annual showcase invites attendees to engage with works spanning a variety of mediums – poetry, painting, ceramics, music, dance, video, sculpture, print, and more – that exploreresonance,memory, andconnectionacross time and space.​Food & beverages will be available for purchase.​Schedule​Doors Open- 4:30pmGallery Start- 5:00pmPerformances- 7:00pm​What is Work in Progress?​Work In Progress NYC is a monthly series where interdisciplinary creatives share projects they’re working on for feedback and dialogue. It’s a safe and conscious space focused on being raw and vulnerable with whatever stage of creation people are at instead of focused on presenting a finished and polished project. Our larger showcases like this one serve as a space to share more polished projects, celebrate each other's work, and give our artists an opportunity to share their art with a wider audience.​Price and Accessibility commitment​We want all our events to be accessible to everyone regardless of background or financial status. The pricing shown here is just to help us break even with costs of hosting the event and we don't make any profit off of these. If you have difficulties paying for the event, reach out to us@workinprogressnycand we can arrange entry passes for you.",
+      "description": "​Work in Progress NYC’s third annual showcase invites attendees to engage with works spanning a variety of mediums – poetry, painting, ceramics, music, dance, video, sculpture, print, and more – that exploreresonance,memory, andconnectionacross time and space.​Food & beverages will be available for purchase.​Schedule​Doors Open- 4:30pmGallery Start- 5:00pmPerformances- 7:30pm - 9:30pmPerformances will last 90 mins with a break and include live music, dance, spoken word and film.​What is Work in Progress?​Work In Progress NYC is a monthly series where interdisciplinary creatives share projects they’re working on for feedback and dialogue. It’s a safe and conscious space focused on being raw and vulnerable with whatever stage of creation people are at instead of focused on presenting a finished and polished project. Our larger showcases like this one serve as a space to share more polished projects, celebrate each other's work, and give our artists an opportunity to share their art with a wider audience.​Price and Accessibility commitment​We want all our events to be accessible to everyone regardless of background or financial status. The pricing shown here is just to help us break even with costs of hosting the event and we don't make any profit off of these. If you have difficulties paying for the event, reach out to us@workinprogressnycand we can arrange entry passes for you.",
       "startDate": "2025-05-30",
       "endDate": "2025-06-02",
       "category": [
@@ -3527,7 +3449,7 @@
       "type": "Tech",
       "locationId": "loc_telos",
       "communityId": "com_telos",
-      "description": "​Anyone else feel like today’s musical artists kinda suck on stage? They often look lost, stumbling breathlessly through their words, if they can remember them. Their movements are awkward and hampered by clothing that isn’t functional or in line with their energy. Overall, the stars of today and tomorrow seem less sure of themselves on stage. How do we fix that?​“Stage Presence”, presented byEdited for Brevity,is a panel on live musical performance, and on how investing in styling, physical training and choreography can take an artist’s live show to the next level.​The Panelists:​Jason Lewisaka RapsTrainer is an LA-based personal trainer with a unique specialization in working with world-touring musicians with emphasis on injury prevention. With a deep understanding of the physical demands placed on touring artists, Jason's clients include GRAMMY-winning artist Kaytranada, Amine, Teezo Touchdown, Cole Bennett & more.​Gigi Todiscois a queer & mixed race choreographer, dancer & movement director based in LA. Gigi choreographed and danced in Kali Uchis'Red Moon in VenusTour, and her 2023 Coachella  set. She's also worked with Post Malone, Tyla, Olivia Rodrigo and more, and has done commercial work for NIKE, New Balance and Vans.​Zay Fofanais a New York based stylist, image consultant and director whose clients include Kanye West, A$AP Rocky, Lil Durk and more. He’s styled tours, album cover shoots, music videos, live performances and more, and has done commercial work for brands like Planes, New Balance and Under Armor.​The Event​Join us attelos.hausonSaturday, May 17thfor a moderated panel, followed by a mixer. Drinks and light bites will be provided.Doors open at 7:00pm.The event is free to attend, but donations are welcome! All guests who RSVP will be automatically added to the Edited For Brevity Substack community.​Schedule​7:00pm – 7:45pm: Doors Open​7:50pm – 8:50pm: Moderated Panel + Q&A​9:00pm – 10:30pm: Mixer + Light Bites & Drinks​About the Host​Edited For Brevity is a new music publication and platform founded byEbrima Jassey,with a focus on storytelling, whether that be in the dissection of our favorite songs, or in the stories told by the people behind the scenes. Get in touch ateditedbrevity@gmail.comand keep up with us onSubstack.",
+      "description": "​Anyone else feel like today’s musical artists kinda suck on stage? They often look lost, stumbling breathlessly through their words, if they can remember them. Their movements are awkward and hampered by clothing that isn’t functional or in line with their energy. Overall, the stars of today and tomorrow seem less sure of themselves on stage. How do we fix that?​“Stage Presence”, presented byEdited for Brevity,is a panel on live musical performance, and on how investing in styling, physical training and choreography can take an artist’s live show to the next level.​The Panelists:​Jason Lewisaka RapsTrainer is an LA-based personal trainer with a unique specialization in working with world-touring musicians with emphasis on injury prevention. With a deep understanding of the physical demands placed on touring artists, Jason's clients include GRAMMY-winning artist Kaytranada, Amine, Teezo Touchdown, Cole Bennett & more.​Gigi Todiscois a queer & mixed race choreographer, dancer & movement director based in LA. Gigi choreographed and danced in Kali Uchis'Red Moon in VenusTour, and her 2023 Coachella  set. She's also worked with Post Malone, Tyla, Olivia Rodrigo and more, and has done commercial work for NIKE, New Balance and Vans.​Zay Fofanais a New York based stylist, image consultant and director whose clients include Kanye West, A$AP Rocky, Lil Durk and more. He’s styled tours, album cover shoots, music videos, live performances and more, and has done commercial work for brands like Planes, New Balance and Under Armor.​The Event​Join us attelos.hausonSaturday, May 17thfor a moderated panel, followed by a mixer. Drinks and light bites will be provided, courtesy of Nami Matcha & VegoBears.Doors open at 7:00pm.The event is free to attend, but donations are welcome! All guests who RSVP will be automatically added to the Edited For Brevity Substack community.​Schedule​7:00pm – 7:45pm: Doors Open​7:50pm – 8:50pm: Moderated Panel + Q&A​9:00pm – 10:30pm: Mixer + Light Bites & Drinks​About the Host​Edited For Brevity is a new music publication and platform founded byEbrima Jassey,with a focus on storytelling, whether that be in the dissection of our favorite songs, or in the stories told by the people behind the scenes. Get in touch ateditedbrevity@gmail.comand keep up with us onSubstack.",
       "startDate": "2025-05-17T19:00:00-04:00",
       "endDate": "2025-05-17T22:30:00-04:00",
       "category": [
@@ -3569,7 +3491,9 @@
           }
         ],
         "social_links": [
+          "https://instagram.com/editedbrevity",
           "https://instagram.com/ebr.ima",
+          "https://instagram.com/editedbrevity",
           "https://instagram.com/ebr.ima"
         ],
         "featured": false,
@@ -3624,118 +3548,6 @@
           }
         ],
         "social_links": [],
-        "featured": false,
-        "luma_source": true
-      }
-    },
-    {
-      "id": "evt_com_nyc_resistor__7523egh",
-      "name": "Ping Ji",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2025-05-14T10:00:00-04:00",
-      "endDate": "2025-05-14T11:00:00-04:00",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://www.google.com/calendar/event?eid=Xzc1MjNlZ2hrODkxM2liOW03NG9rYWI5azg4b2owYmExOGtzazRiOW02MHFqZ2dwajcwcWthZTFsNjggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "organizer": {
-          "name": "NYCResistor",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false
-      }
-    },
-    {
-      "id": "evt_com_verci__clr78bb",
-      "name": "Monday Girl: Women In Creative Industries",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "​Join Monday Girl and Verci for a night of real conversations, creative energy, and connections that actually go somewhere.​This is a happy hour for NYC’s creative women across media, fashion, content, design, and more.​What to expect:​– Curated networking that feels natural, not forced​– Thoughtful conversation prompts (skip the small talk)​– A beautiful setting inside Verci’s flagship Flatiron space​Whether you’re building your brand, launching something new, or just want to meet other women doing cool things—this night is for you.​Capacity is limited. Come early, bring your best ideas, and leave with a few new contacts worth texting.​🎟️Tickets: FREE for members; $15.00 for non-members​Given limited capacity, this will be invitation-only.​About Verci​Verci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more atverci.comand read our manifesto atverci.com/manifesto.​Learn more here:https://www.verci.com/​About Monday Girl​​Ever felt like the only woman in the room? We've been there too. Welcome to a community where high-achieving women are the rule, not the exception. Say goodbye to feeling outnumbered and overlooked. Monday Girl Members get access to a private network of mentors from top companies, invites to exclusive events, career resources, and more.​​​Apply:https://joinmondaygirl.com/Social:@joinmondaygirl",
-      "startDate": "2025-05-14T22:30:00Z",
-      "endDate": "2025-05-15T01:00:00Z",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "luma-event-7e28ad74.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://lu.ma/MGxVerci",
-        "organizer": {
-          "name": "Verci Events",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "45 E 20th StNew York, NY 10003, USA\nNew York, NY 10003, USA",
-          "type": "Offline"
-        },
-        "speakers": [
-          {
-            "name": "Monday Girl",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Monday Girl",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "Verci",
-            "title": "",
-            "bio": ""
-          }
-        ],
-        "social_links": [
-          "https://instagram.com/joinmondaygirl",
-          "https://tiktok.com/@joinmondaygirl",
-          "https://joinmondaygirl.com",
-          "https://instagram.com/mondaygirlto",
-          "https://instagram.com/joinmondaygirl",
-          "https://tiktok.com/@joinmondaygirl",
-          "https://joinmondaygirl.com",
-          "https://instagram.com/mondaygirlto"
-        ],
         "featured": false,
         "luma_source": true
       }
@@ -3828,7 +3640,7 @@
       "type": "Tech",
       "locationId": "",
       "communityId": "com_effective_altruism_nyc",
-      "description": "Please RSVP by emailing jonathan@effectivealtruism.nyc<br><br>Hear from Cole Landfried, formerly of USAID, about the dismantling of USAID and ways to respond to the dismantling of USAID.  <br><br>Cole will discuss his career at USAID, what all has happened at USAID this year, and ways the EA community can respond to the crisis.  <br><br><b>Please register by emailing </b>jonathan@effectivealtruism.nyc<br><br>Cole Landfried served in the Support Relief Group Bureau for Humanitarian Assistance<br>USAID.  Cole has worked in multiple countries with a focus on disaster relief.  Cole was chosen to testify before Congress about the dismantling of USAID.  Cole is keenly interested in helping the EA community identify the most critical gaps left by the dismantling of USAID and ways to help undo some of the damage caused by the dismantling of USAID.  <br><br>This event will be co-hosted with 1 For the World, an organization dedicated to scaling giving to address extreme poverty.  Drinks and vegan snacks will be provided.  Please join us to hear from Cole and participate in discussion with Cole about the best ways to respond to the dismantling of USAID.  <br><br><br><br>****<br><br>EA NYC:<br>Please find all EA NYC event information - including our Code of Conduct, food policy, covid policy, and information on past and future events - here on our website: <a href=\"https://www.effectivealtruism.nyc/events\" target=\"_blank\">https://www.effectivealtruism.nyc/events</a><br><br><br>For those new to effective altruism, here are a couple of good introductions. In short, EA is about using evidence to carefully analyze how, given limited resources, we can help others the *most*.<br><a href=\"https://www.youtube.com/watch?v=48VAQtGmfWY\" target=\"_blank\">https://www.youtube.com/watch?v=48VAQtGmfWY</a>",
+      "description": "Please RSVP with this link https://www.eventbrite.com/e/effective-giving-post-usaid-tickets-1364903907329?aff=oddtdtcreator Hear from Cole Landfried, formerly of USAID, about the dismantling of USAID and ways to respond to the dismantling of USAID.  Cole will discuss his career at USAID, what all has happened at USAID this year, and ways the EA community can respond to the crisis.  Please register with this link https://www.eventbrite.com/e/effective-giving-post-usaid-tickets-1364903907329?aff=oddtdtcreator Cole Landfried served in the Support Relief Group Bureau for Humanitarian Assistance USAID.  Cole has worked in multiple countries with a focus on disaster relief.  Cole was chosen to testify before Congress about the dismantling of USAID.  Cole is keenly interested in helping the EA community identify the most critical gaps left by the dismantling of USAID and ways to help undo some of the damage caused by the dismantling of USAID.  This event will be co-hosted with 1 For the World, an organization dedicated to scaling giving to address extreme poverty.  Drinks and vegan snacks will be provided.  Please join us to hear from Cole and participate in discussion with Cole about the best ways to respond to the dismantling of USAID.  <br><br><br><br>****<br><br>EA NYC:<br>Please find all EA NYC event information - including our Code of Conduct, food policy, covid policy, and information on past and future events - here on our website: <a href=\"https://www.effectivealtruism.nyc/events\" target=\"_blank\">https://www.effectivealtruism.nyc/events</a><br><br><br>For those new to effective altruism, here are a couple of good introductions. In short, EA is about using evidence to carefully analyze how, given limited resources, we can help others the *most*.<br><a href=\"https://www.youtube.com/watch?v=48VAQtGmfWY\" target=\"_blank\">https://www.youtube.com/watch?v=48VAQtGmfWY</a>",
       "startDate": "2025-05-29T18:30:00-04:00",
       "endDate": "2025-05-29T21:30:00-04:00",
       "category": [
@@ -3846,7 +3658,7 @@
       "image": "",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://www.google.com/calendar/event?eid=MjYwb2F2MG9sa2QwZ2ppNWo4Y3FkbTFrOTYgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "source_url": "https://www.eventbrite.com/e/effective-giving-post-usaid-tickets-1364903907329?aff=oddtdtcreator",
         "organizer": {
           "name": "Effective Altruism NYC Events",
           "instagram": "",
@@ -3869,7 +3681,7 @@
       "type": "Tech",
       "locationId": "loc_telos",
       "communityId": "com_telos",
-      "description": "​tatosando presents:mùa xuân (spring) cafe pop-up ‧₊˚❀​hi friends! we’re hosting our first public cafe pop-up this weekend :D come join us at @telos.hausto try our new spring menu inspired by viet flavors, munch on some sweet treats, and vibe to our cool friends live dj sets <3​stay tuned for our menu drop! ᯓ★​love,tato&sando",
+      "description": "​tatosando presents:mùa xuân (spring) cafe pop-up ‧₊˚❀​hi friends! we’re hosting our first public cafe pop-up this weekend :D come join us at @telos.hausto try our new spring menu inspired by viet flavors, munch on some sweet treats, and vibe to our cool friends live dj sets <3​take a look at ourmenu here! ᯓ★​can’t wait to see u soon :3 love,tato&sando",
       "startDate": "2025-05-17T12:00:00-04:00",
       "endDate": "2025-05-17T15:00:00-04:00",
       "category": [
@@ -3921,6 +3733,234 @@
           }
         ],
         "social_links": [],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_effective_altruism_nyc_4gq5g2ep",
+      "name": "Pledge Kindness Pet Parade (Astoria, Queens)",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "A family-friendly, joyful parade where pets and their owners gather to launch the \"<a href=\"https://www.farmkind.giving/pledge-kindness/?utm_campaign=eventbrite\" target=\"_blank\"><u>Kind to All Animals Pledge</u></a>\" campaign. The event is a celebration of animal love with a positive message about taking small steps to help ALL animals humans affect.  Please RSVP with the link <a href=\"https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile\">https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile</a>",
+      "startDate": "2025-05-17T15:00:00-04:00",
+      "endDate": "2025-05-17T18:00:00-04:00",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": "",
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile\">https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile</a>",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Château le Woof, 3101 Vernon Blvd, Astoria, NY 11106, USA",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false
+      }
+    },
+    {
+      "id": "evt_com_nyc_resistor_5drvfddp",
+      "name": "Resistorversary",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_nyc_resistor",
+      "description": "Happy birthday, Resistor! Our semi-arbitrary founding date is August 18th, 2007.<br><a href=\"https://wiki.hackerspaces.org/NYC_Resistor\">https://wiki.hackerspaces.org/NYC_Resistor</a>",
+      "startDate": "2025-08-18",
+      "endDate": "2025-08-19",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://www.google.com/calendar/event?eid=NWRydmZkZHA3b2F1ajV1azY5aWs1ZHY1MTFfMjAyNTA4MTggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "organizer": {
+          "name": "NYCResistor",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78ba",
+      "name": "OTWC Season 6: Part IX",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "​OTWC is an NYC-based writing community for online writers to write, exchange ideas, and get inspired. Our sessions look like this:​​​​​​​​​​​​​1. ​​​Introduce yourselves and talk about what you plan to write2. ​​​Focused writing session3. ​​​Get together in small groups and discuss how the session went​​​​​​​​​​​​​Snacks and drinks will be provided!​​​​​​​​​​​​If this price is too steep for you for any reason, email us by clicking \"Contact the Host\" on the left and we’ll give you a pay-what-you-can ticket.​​​​​​​​​​​​​Follow us on Twitter and Instagram @otwc_nyc to stay updated on future events and announcements!​​​​​​​​​​​​​Hope to see you there 🥳",
+      "startDate": "2025-06-01T14:00:00Z",
+      "endDate": "2025-06-01T17:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9d9dccf2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/erlw60hr",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Please register to see the exact location of this event.\nNew York, New York",
+          "type": "Online"
+        },
+        "speakers": [
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_verci__clr78bb",
+      "name": "OTWC Season 6: Part X",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "​OTWC is an NYC-based writing community for online writers to write, exchange ideas, and get inspired. Our sessions look like this:​​​​​​​​​​​​​1. ​​​Introduce yourselves and talk about what you plan to write2. ​​​Focused writing session3. ​​​Get together in small groups and discuss how the session went​​​​​​​​​​​​​Snacks and drinks will be provided!​​​​​​​​​​​​If this price is too steep for you for any reason, email us by clicking \"Contact the Host\" on the left and we’ll give you a pay-what-you-can ticket.​​​​​​​​​​​​​Follow us on Twitter and Instagram @otwc_nyc to stay updated on future events and announcements!​​​​​​​​​​​​​Hope to see you there 🥳",
+      "startDate": "2025-06-08T14:00:00Z",
+      "endDate": "2025-06-08T17:00:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-9d9dccf2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/1ib99jjl",
+        "organizer": {
+          "name": "Verci Events",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Please register to see the exact location of this event.\nNew York, New York",
+          "type": "Online"
+        },
+        "speakers": [
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "James Q",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "Abi Suresh",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope",
+          "https://instagram.com/otwc_nyc",
+          "https://x.com/otwc_nyc",
+          "https://instagram.com/mrjamesq",
+          "https://x.com/mrjamesq",
+          "https://instagram.com/abi_nope"
+        ],
         "featured": false,
         "luma_source": true
       }

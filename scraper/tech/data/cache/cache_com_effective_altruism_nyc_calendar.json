@@ -1,6 +1,47 @@
 {
   "events": [
     {
+      "id": "evt_com_effective_altruism_nyc_4gq5g2ep",
+      "name": "Pledge Kindness Pet Parade (Astoria, Queens)",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "A family-friendly, joyful parade where pets and their owners gather to launch the \"<a href=\"https://www.farmkind.giving/pledge-kindness/?utm_campaign=eventbrite\" target=\"_blank\"><u>Kind to All Animals Pledge</u></a>\" campaign. The event is a celebration of animal love with a positive message about taking small steps to help ALL animals humans affect.\u00a0 Please RSVP with the link\u00a0<a href=\"https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile\">https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile</a>",
+      "startDate": "2025-05-17T15:00:00-04:00",
+      "endDate": "2025-05-17T18:00:00-04:00",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": "",
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile\">https://www.eventbrite.com/e/pledgekindness-pet-parade-tickets-1312098204049?aff=ebdsoporgprofile</a>",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Ch\u00e2teau le Woof, 3101 Vernon Blvd, Astoria, NY 11106, USA",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false
+      }
+    },
+    {
       "id": "evt_com_effective_altruism_nyc_2ls9s66h",
       "name": "EA NYC Creatives and Communicators Subgroup Meeting",
       "type": "Tech",
@@ -129,7 +170,7 @@
       "type": "Tech",
       "locationId": "",
       "communityId": "com_effective_altruism_nyc",
-      "description": "Please RSVP by emailing jonathan@effectivealtruism.nyc<br><br>Hear from Cole Landfried, formerly of USAID, about the dismantling of USAID and ways to respond to the dismantling of USAID.\u00a0\u00a0<br><br>Cole will discuss his career at USAID, what all has happened at USAID this year, and ways the EA community can respond to the crisis.\u00a0\u00a0<br><br><b>Please register by emailing\u00a0</b>jonathan@effectivealtruism.nyc<br><br>Cole Landfried served in the Support Relief Group Bureau for Humanitarian Assistance<br>USAID.\u00a0 Cole has worked in multiple countries with a focus on disaster relief.\u00a0 Cole was chosen to testify before Congress about the dismantling of USAID.\u00a0 Cole is keenly interested in helping the EA community identify the most critical gaps left by the dismantling of USAID and ways to help undo some of the damage caused by the dismantling of USAID.\u00a0\u00a0<br><br>This event will be co-hosted with 1 For the World, an organization dedicated to scaling giving to address extreme poverty.\u00a0 Drinks and vegan snacks will be provided.\u00a0 Please join us to hear from Cole and participate in discussion with Cole about the best ways to respond to the dismantling of USAID.\u00a0\u00a0<br><br><br><br>****<br><br>EA NYC:<br>Please find all EA NYC event information - including our Code of Conduct, food policy, covid policy, and information on past and future events - here on our website: <a href=\"https://www.effectivealtruism.nyc/events\" target=\"_blank\">https://www.effectivealtruism.nyc/events</a><br><br><br>For those new to effective altruism, here are a couple of good introductions. In short, EA is about using evidence to carefully analyze how, given limited resources, we can help others the *most*.<br><a href=\"https://www.youtube.com/watch?v=48VAQtGmfWY\" target=\"_blank\">https://www.youtube.com/watch?v=48VAQtGmfWY</a>",
+      "description": "Please RSVP with this link https://www.eventbrite.com/e/effective-giving-post-usaid-tickets-1364903907329?aff=oddtdtcreator Hear from Cole Landfried, formerly of USAID, about the dismantling of USAID and ways to respond to the dismantling of USAID.\u00a0\u00a0Cole will discuss his career at USAID, what all has happened at USAID this year, and ways the EA community can respond to the crisis.\u00a0\u00a0Please register with this link https://www.eventbrite.com/e/effective-giving-post-usaid-tickets-1364903907329?aff=oddtdtcreator Cole Landfried served in the Support Relief Group Bureau for Humanitarian Assistance USAID.\u00a0 Cole has worked in multiple countries with a focus on disaster relief.\u00a0 Cole was chosen to testify before Congress about the dismantling of USAID.\u00a0 Cole is keenly interested in helping the EA community identify the most critical gaps left by the dismantling of USAID and ways to help undo some of the damage caused by the dismantling of USAID.\u00a0\u00a0This event will be co-hosted with 1 For the World, an organization dedicated to scaling giving to address extreme poverty.\u00a0 Drinks and vegan snacks will be provided.\u00a0 Please join us to hear from Cole and participate in discussion with Cole about the best ways to respond to the dismantling of USAID.\u00a0\u00a0<br><br><br><br>****<br><br>EA NYC:<br>Please find all EA NYC event information - including our Code of Conduct, food policy, covid policy, and information on past and future events - here on our website: <a href=\"https://www.effectivealtruism.nyc/events\" target=\"_blank\">https://www.effectivealtruism.nyc/events</a><br><br><br>For those new to effective altruism, here are a couple of good introductions. In short, EA is about using evidence to carefully analyze how, given limited resources, we can help others the *most*.<br><a href=\"https://www.youtube.com/watch?v=48VAQtGmfWY\" target=\"_blank\">https://www.youtube.com/watch?v=48VAQtGmfWY</a>",
       "startDate": "2025-05-29T18:30:00-04:00",
       "endDate": "2025-05-29T21:30:00-04:00",
       "category": [
@@ -147,7 +188,7 @@
       "image": "",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://www.google.com/calendar/event?eid=MjYwb2F2MG9sa2QwZ2ppNWo4Y3FkbTFrOTYgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "source_url": "https://www.eventbrite.com/e/effective-giving-post-usaid-tickets-1364903907329?aff=oddtdtcreator",
         "organizer": {
           "name": "Effective Altruism NYC Events",
           "instagram": "",
