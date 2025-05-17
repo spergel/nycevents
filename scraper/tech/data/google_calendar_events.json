@@ -1799,7 +1799,7 @@
       "type": "Tech",
       "locationId": "",
       "communityId": "com_south_park_commons",
-      "description": "​Curious what the brilliant minds of SPC are up to?​​​​Join us for a showcase of the latest demos from SPC alumni and members.These are no slideshows—live demos only!​​​Demos will be in person at SPC-SF from 1:30-4:30pm PT. After demos wrap we will host an open house until 6pm PT so you can meet the presenters and mix with SPC members. We hope you'll join us in person!​​​Schedule​​​1:00pm PT - Doors open at SPC-SF​​​1:30pm PT - Demos start​​​4:30pm PT - Demos end, open house starts​​​6:00pm PT - Open house ends​​​About South Park Commons​​​SPC is ahome for the most talented technologistsfiguring out what's next—a community designed to turn the chaos of possibility into the clarity of conviction. Whether you're exploring startup ideas, refining your thinking on a new product, or looking to dive into a new domain, we're here to help you get from -1 to 0.",
+      "description": "​Curious what the brilliant minds of SPC are up to?​​​​Join us for a showcase of the latest demos from SPC alumni and members.There are no slideshows—live demos only!​​​Demos will be in person at SPC-SF from 1:30-4:30pm PT. After demos wrap we will host an open house until 6pm PT so you can meet the presenters and mix with SPC members. We hope you'll join us in person!​​​Schedule​​​1:00pm PT - Doors open at SPC-SF​​​1:30pm PT - Demos start​​​4:30pm PT - Demos end, open house starts​​​6:00pm PT - Open house ends​​​About South Park Commons​​​SPC is ahome for the most talented technologistsfiguring out what's next—a community designed to turn the chaos of possibility into the clarity of conviction. Whether you're exploring startup ideas, refining your thinking on a new product, or looking to dive into a new domain, we're here to help you get from -1 to 0.",
       "startDate": "2025-06-05T20:00:00Z",
       "endDate": "2025-06-05T23:30:00Z",
       "category": [
@@ -2482,47 +2482,6 @@
           "name": "NYCResistor",
           "instagram": "",
           "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false
-      }
-    },
-    {
-      "id": "evt_com_telos_5i0nv3iq",
-      "name": "tea.haus",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_telos",
-      "description": "",
-      "startDate": "2025-05-16T19:00:00-04:00",
-      "endDate": "2025-05-17T00:00:00-04:00",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://www.google.com/calendar/event?eid=NWkwbnYzaXE5cnZ2bjZva2p1azRrZ3FtcmIgZDU5NmMyYmY3MjExODNkMjJiYjUwYmRlNjYyNTA5MGZjMzkyM2FhMjlhNjkxOGQ3ODQwOWUxNjhkYTc5MTc2OUBn",
-        "organizer": {
-          "name": "telos.haus events",
-          "instagram": "",
-          "email": "d596c2bf721183d22bb50bde6625090fc3923aa29a6918d78409e168da791769@group.calendar.google.com"
         },
         "venue": {
           "name": "",
@@ -3323,8 +3282,8 @@
       "locationId": "",
       "communityId": "com_telos",
       "description": "",
-      "startDate": "2025-05-18T15:00:00-04:00",
-      "endDate": "2025-05-18T18:00:00-04:00",
+      "startDate": "2025-05-18T18:00:00-04:00",
+      "endDate": "2025-05-18T21:00:00-04:00",
       "category": [
         "Tech"
       ],
@@ -3963,6 +3922,47 @@
         ],
         "featured": false,
         "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_effective_altruism_nyc_0l95e4vm",
+      "name": "AI Governance Speaker Adam Gleave",
+      "type": "Tech",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "This week we will have a special speaker, Adam Gleave, CEO of far.ai.\n\nAI Subgroup sign-up form: https://forms.gle/fksP9VV3X1owgPe88\n\n\n\n****\n\nEA NYC:\nPlease find all EA NYC event information - including our Code of Conduct, food policy, covid policy, and information on past and future events - here on our website: https://www.effectivealtruism.nyc/events\n\nYou can also find us on Facebook, Meetup, and Eventbrite!\nhttp://facebook.com/groups/eanyc/events\nhttps://www.meetup.com/effective-altruism-nyc/events/\nhttps://www.eventbrite.com/o/effective-altruism-nyc-55938838923\n\nFor those new to effective altruism, here are a couple of good introductions. In short, EA is about using evidence to carefully analyze how, given limited resources, we can help others the *most*.\nhttps://www.youtube.com/watch?v=48VAQtGmfWY",
+      "startDate": "2025-05-27T19:00:00-04:00",
+      "endDate": "2025-05-27T21:00:00-04:00",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://www.eventbrite.com/o/effective-altruism-nyc-55938838923",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "In-Person Event (Midtown); register for location details",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false
       }
     }
   ]

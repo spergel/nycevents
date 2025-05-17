@@ -289,6 +289,42 @@
       }
     },
     {
+      "id": "evt_pioneer_c2732de5",
+      "name": "Daniel Johnston: A Book Launch and Celebration ",
+      "type": "Cultural Event",
+      "locationId": "loc_pioneer_works",
+      "communityId": "com_pioneer_works",
+      "description": "Please join us in celebrating the release of Daniel Johnston: I’m Afraid of What I Might Draw (Rizzoli) with a special conversation featuring book edito...",
+      "startDate": "2025-06-17T23:30:00+00:00",
+      "endDate": "2025-06-18T03:00:00+00:00",
+      "category": [
+        "Arts",
+        "Music",
+        "Science"
+      ],
+      "price": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": [
+        "https://cdn.sanity.io/images/vgvol637/production/80da5d4a4d7dad08aac31b075f6b1f4dd391e5c5-1206x1500.jpg?w=800"
+      ],
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://pioneerworks.org/programs/daniel-johnston-book-celebration",
+        "organizer": {
+          "name": "Pioneer Works",
+          "instagram": "@pioneerworks",
+          "email": "info@pioneerworks.org"
+        },
+        "venue": {
+          "name": "Pioneer Works",
+          "address": "159 Pioneer Street",
+          "type": "Cultural Institution"
+        },
+        "featured": false
+      }
+    },
+    {
       "id": "evt_pioneer_f972de19",
       "name": "Sun Ra Arkestra with Marshall Allen, Young Boy Dancing Group, Colin Self, Cel Genesis, Relaxer b2b Baby Leo",
       "type": "Cultural Event",

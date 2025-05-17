@@ -1,47 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_com_telos_5i0nv3iq",
-      "name": "tea.haus",
-      "type": "Tech",
-      "locationId": "",
-      "communityId": "com_telos",
-      "description": "",
-      "startDate": "2025-05-16T19:00:00-04:00",
-      "endDate": "2025-05-17T00:00:00-04:00",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://www.google.com/calendar/event?eid=NWkwbnYzaXE5cnZ2bjZva2p1azRrZ3FtcmIgZDU5NmMyYmY3MjExODNkMjJiYjUwYmRlNjYyNTA5MGZjMzkyM2FhMjlhNjkxOGQ3ODQwOWUxNjhkYTc5MTc2OUBn",
-        "organizer": {
-          "name": "telos.haus events",
-          "instagram": "",
-          "email": "d596c2bf721183d22bb50bde6625090fc3923aa29a6918d78409e168da791769@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false
-      }
-    },
-    {
       "id": "evt_com_telos_1vk372h4",
       "name": "M\u00f9a Xu\u00e2n \u2014 Caf\u00e9 Pop-up",
       "type": "Tech",
@@ -167,8 +126,8 @@
       "locationId": "",
       "communityId": "com_telos",
       "description": "",
-      "startDate": "2025-05-18T15:00:00-04:00",
-      "endDate": "2025-05-18T18:00:00-04:00",
+      "startDate": "2025-05-18T18:00:00-04:00",
+      "endDate": "2025-05-18T21:00:00-04:00",
       "category": [
         "Tech"
       ],

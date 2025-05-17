@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "id": "evt_interference_7edadb16",
-      "name": "Free Noise",
+      "id": "evt_interference_adaf5b95",
+      "name": "Know Your Rights Propaganda Party",
       "type": "Community",
       "locationId": "loc_interference",
       "communityId": "com_interference",
-      "description": "An open mic for queer/trans people and their music, poetry and performance. Come one, come all! \n\n\nEmail \nmilesellisor@gmail.com\n to perform.\n$5 suggested donation, but pay what you can.\n\n\nCollected donations will be split between the Archive and \nG.L.I.T.S.\n (Gays & Lesbians Living In A Transgender Society).",
-      "startDate": "2025-05-03T18:00:00",
-      "endDate": "2025-05-03T20:30:00",
+      "description": "We keep us safe.\n Join us Sunday, June 1 from 2-6pm to mass produce multilingual know your rights materials like how to watch out for ICE, how to keep yourself safe during a police raid, and how you can intervene as a bystander.\n\n\nMaterials will be available for you to make, take, and distribute within your own communities. Come hang out, print materials, fold zines, and be in community with others as we educate and empower each other.\n\n\nWhile this event is free, your donations cover our material costs. \nThe mass distribution of materials is not free. Interference Archive is completely volunteer-run and on a shoestring operational budget. Please consider donating to our \nKnow Your Rights Propaganda Party fund\n or donating any of the following materials:\n\n\n\n\nblank canvas tote bags\n\n\nblank t-shirts (all sizes)\n\n\nscreen-printing inks\n\n\n11″ x 17″ white paper for riso printing (smooth, uncoated)\n\n\n1.5”, 2” or 2.25” button making supplies\n\n\n\n\nIf you are able to donate a material, please dm us on instagram (@interferencearchive) to coordinate a drop off time (by May 18). We appreciate your support! Mutual aid forever.\n\n\nWhat is a propaganda party?\n \n\n\nA propaganda party is where people like you come together to create and distribute material to be “propagated.” While propaganda often has a negative connotation, here we are reclaiming the term and using it to mean mass-education of our community in the face of rising fascism.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNosotros nos mantenemos a salvo. \nÚnase a nosotros el domingo 1 de junio de 2 a 6 p.m. para producir en masa materiales multilingües para conocer sus derechos, cómo tener cuidado y vista contra ICE, cómo mantenerse seguro durante una redada policial y cómo puede intervenir como espectador.\n\n\nHabrá materiales disponibles para que usted los fabrique, los lleve y los distribuya dentro de sus propias comunidades. Venga a pasar el rato, imprima materiales, doble revistas y forme comunidad con otros mientras nos educamos y empoderamos unos a otros.\n\n\nAunque este evento es gratuito, sus donaciones cubren nuestros costos de material. La distribución masiva de materiales no es gratuita. Interference Archive está gestionado completamente por voluntarios y tiene un presupuesto operativo limitado. Por favor, considere hacer una donación a nuestro \nfondo para la Conoce tus Derechos Fiesta de Propaganda\n o donar cualquiera de los siguientes materiales:\n\n\n\n\n\n\nbolsas de lona en blanco\n\n\ncamisetas en blanco (todas las tallas)\n\n\ntintas de serigrafía\n\n\nPapel blanco de 11″ x 17″ para impresión riso (liso, sin recubrimiento)\n\n\nSuministros para hacer botones de 1,5”, 2” o 2,25”\n\n\n\n\n\n\nSi puedes donar materiales, envíenos un mensaje privado (@interferencearchive – instagram) para coordinar la hora de entrega (antes del 18 de mayo). ¡Apreciamos su apoyo! Ayuda mutua para siempre.\n\n\n¿Qué es una fiesta de propaganda?\n\n\nUna fiesta de propaganda es donde personas como usted se reúnen para crear y distribuir material para “propagarlo”. Si bien la propaganda tiene una connotación negativa muchas veces, aquí estamos reclamando el término y usándolo para referirse a la educación masiva de nuestra comunidad frente al creciente fascismo.",
+      "startDate": "2025-06-01T14:00:00",
+      "endDate": "2025-06-01T18:00:00",
       "category": [
         "Community",
         "Arts",
@@ -26,7 +26,7 @@
       "image": "interference-archive.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://interferencearchive.org/event/free-noise/",
+        "source_url": "https://interferencearchive.org/event/know-your-rights-propaganda-party/",
         "organizer": {
           "name": "Interference Archive",
           "email": "info@interferencearchive.org"
@@ -40,14 +40,14 @@
       }
     },
     {
-      "id": "evt_interference_ee1caffb",
-      "name": "Collections Working Group Meeting",
+      "id": "evt_interference_7f2f41db",
+      "name": "Zine Club",
       "type": "Community",
       "locationId": "loc_interference",
       "communityId": "com_interference",
-      "description": "Join Collections Management working group for our May monthly meeting, hybrid at the archive and on Zoom. We will be discussing new donation requests, ongoing cataloging projects, and issues in the archive’s collections. New and seasoned volunteers welcome, no prior experience in archives or libraries necessary.\n\n\nZoom link: \nhttps://us06web.zoom.us/j/84556756017?pwd=AxmnArDLYM85qrF0Yt10osClt1NQF2.1",
-      "startDate": "2025-05-14T19:00:00",
-      "endDate": "2025-05-14T20:00:00",
+      "description": "Please join us to make zines at Zine Club on the third Monday of every month! It is a casual, creative and welcoming space where you can make your own mini zine or work on an ongoing larger project. We have some limited supplies so please bring your own if you are able to.",
+      "startDate": "2025-05-19T18:30:00",
+      "endDate": "2025-05-19T20:00:00",
       "category": [
         "Community",
         "Arts",
@@ -65,7 +65,46 @@
       "image": "interference-archive.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://interferencearchive.org/event/collections-working-group-meeting-8/",
+        "source_url": "https://interferencearchive.org/event/zine-club-4/",
+        "organizer": {
+          "name": "Interference Archive",
+          "email": "info@interferencearchive.org"
+        },
+        "venue": {
+          "name": "Interference Archive",
+          "address": "314 7th St, Brooklyn, NY 11215",
+          "type": "Offline"
+        },
+        "featured": false
+      }
+    },
+    {
+      "id": "evt_interference_ede2db13",
+      "name": "Zine Club",
+      "type": "Community",
+      "locationId": "loc_interference",
+      "communityId": "com_interference",
+      "description": "New month, new zine club! This is an informal gathering with some materials provided (paper, scraps, scissors) but anything you want to bring to work with is very welcome. We’ll be making mini one-cut zines around topics of your choice with a bit of brainstorming built in. Come make friends, make a zine, trade a zine.",
+      "startDate": "2025-04-21T18:30:00",
+      "endDate": "2025-04-21T20:00:00",
+      "category": [
+        "Community",
+        "Arts",
+        "Activism"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "Status Unknown"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "interference-archive.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://interferencearchive.org/event/zine-club-3/",
         "organizer": {
           "name": "Interference Archive",
           "email": "info@interferencearchive.org"
@@ -120,14 +159,14 @@
       }
     },
     {
-      "id": "evt_interference_adaf5b95",
-      "name": "Know Your Rights Propaganda Party",
+      "id": "evt_interference_ee1caffb",
+      "name": "Collections Working Group Meeting",
       "type": "Community",
       "locationId": "loc_interference",
       "communityId": "com_interference",
-      "description": "We keep us safe.\n Join us Sunday, June 1 from 2-6pm to mass produce multilingual know your rights materials like how to watch out for ICE, how to keep yourself safe during a police raid, and how you can intervene as a bystander.\n\n\nMaterials will be available for you to make, take, and distribute within your own communities. Come hang out, print materials, fold zines, and be in community with others as we educate and empower each other.\n\n\nWhile this event is free, your donations cover our material costs. \nThe mass distribution of materials is not free. Interference Archive is completely volunteer-run and on a shoestring operational budget. Please consider donating to our \nKnow Your Rights Propaganda Party fund\n or donating any of the following materials:\n\n\n\n\nblank canvas tote bags\n\n\nblank t-shirts (all sizes)\n\n\nscreen-printing inks\n\n\n11″ x 17″ white paper for riso printing (smooth, uncoated)\n\n\n1.5”, 2” or 2.25” button making supplies\n\n\n\n\nIf you are able to donate a material, please dm us on instagram (@interferencearchive) to coordinate a drop off time (by May 18). We appreciate your support! Mutual aid forever.\n\n\nWhat is a propaganda party?\n \n\n\nA propaganda party is where people like you come together to create and distribute material to be “propagated.” While propaganda often has a negative connotation, here we are reclaiming the term and using it to mean mass-education of our community in the face of rising fascism.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNosotros nos mantenemos a salvo. \nÚnase a nosotros el domingo 1 de junio de 2 a 6 p.m. para producir en masa materiales multilingües para conocer sus derechos, cómo tener cuidado y vista contra ICE, cómo mantenerse seguro durante una redada policial y cómo puede intervenir como espectador.\n\n\nHabrá materiales disponibles para que usted los fabrique, los lleve y los distribuya dentro de sus propias comunidades. Venga a pasar el rato, imprima materiales, doble revistas y forme comunidad con otros mientras nos educamos y empoderamos unos a otros.\n\n\nAunque este evento es gratuito, sus donaciones cubren nuestros costos de material. La distribución masiva de materiales no es gratuita. Interference Archive está gestionado completamente por voluntarios y tiene un presupuesto operativo limitado. Por favor, considere hacer una donación a nuestro \nfondo para la Conoce tus Derechos Fiesta de Propaganda\n o donar cualquiera de los siguientes materiales:\n\n\n\n\n\n\nbolsas de lona en blanco\n\n\ncamisetas en blanco (todas las tallas)\n\n\ntintas de serigrafía\n\n\nPapel blanco de 11″ x 17″ para impresión riso (liso, sin recubrimiento)\n\n\nSuministros para hacer botones de 1,5”, 2” o 2,25”\n\n\n\n\n\n\nSi puedes donar materiales, envíenos un mensaje privado (@interferencearchive – instagram) para coordinar la hora de entrega (antes del 18 de mayo). ¡Apreciamos su apoyo! Ayuda mutua para siempre.\n\n\n¿Qué es una fiesta de propaganda?\n\n\nUna fiesta de propaganda es donde personas como usted se reúnen para crear y distribuir material para “propagarlo”. Si bien la propaganda tiene una connotación negativa muchas veces, aquí estamos reclamando el término y usándolo para referirse a la educación masiva de nuestra comunidad frente al creciente fascismo.",
-      "startDate": "2025-06-01T14:00:00",
-      "endDate": "2025-06-01T18:00:00",
+      "description": "Join Collections Management working group for our May monthly meeting, hybrid at the archive and on Zoom. We will be discussing new donation requests, ongoing cataloging projects, and issues in the archive’s collections. New and seasoned volunteers welcome, no prior experience in archives or libraries necessary.\n\n\nZoom link: \nhttps://us06web.zoom.us/j/84556756017?pwd=AxmnArDLYM85qrF0Yt10osClt1NQF2.1",
+      "startDate": "2025-05-14T19:00:00",
+      "endDate": "2025-05-14T20:00:00",
       "category": [
         "Community",
         "Arts",
@@ -145,7 +184,7 @@
       "image": "interference-archive.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://interferencearchive.org/event/know-your-rights-propaganda-party/",
+        "source_url": "https://interferencearchive.org/event/collections-working-group-meeting-8/",
         "organizer": {
           "name": "Interference Archive",
           "email": "info@interferencearchive.org"
@@ -159,14 +198,14 @@
       }
     },
     {
-      "id": "evt_interference_9ce1cdd6",
-      "name": "Education Reading Group",
+      "id": "evt_interference_7edadb16",
+      "name": "Free Noise",
       "type": "Community",
       "locationId": "loc_interference",
       "communityId": "com_interference",
-      "description": "The Education Reading Group is a place where we plan to share and discuss readings about transformative teaching, political pedagogy, engaging education, and the like.\n\n\nWe will be meeting at \n8 pm on Tuesday May 13th\n to read\n \n“Bloodchild”\n \nby Octavia Butler. It is the titular story from the collection “Bloodchild and Other Stories,” a pdf is here: \nBloodchild\n\n\nIf you have the book and want to read more stories from the collection feel free, but it’s not necessary!\n\n\nHere is the jitsi link for the meeting: \nJitsi",
-      "startDate": "2025-05-13T20:00:00",
-      "endDate": "2025-05-13T21:30:00",
+      "description": "An open mic for queer/trans people and their music, poetry and performance. Come one, come all! \n\n\nEmail \nmilesellisor@gmail.com\n to perform.\n$5 suggested donation, but pay what you can.\n\n\nCollected donations will be split between the Archive and \nG.L.I.T.S.\n (Gays & Lesbians Living In A Transgender Society).",
+      "startDate": "2025-05-03T18:00:00",
+      "endDate": "2025-05-03T20:30:00",
       "category": [
         "Community",
         "Arts",
@@ -184,51 +223,7 @@
       "image": "interference-archive.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://interferencearchive.org/event/education-reading-group-12/",
-        "organizer": {
-          "name": "Interference Archive",
-          "email": "info@interferencearchive.org"
-        },
-        "venue": {
-          "name": "Interference Archive",
-          "address": "314 7th St, Brooklyn, NY 11215",
-          "type": "Offline"
-        },
-        "featured": false
-      }
-    },
-    {
-      "id": "evt_interference_7b6eab32",
-      "name": "Drawn Together",
-      "type": "Community",
-      "locationId": "loc_interference",
-      "communityId": "com_interference",
-      "description": "Join us for a night of drawing and mark-making! Please \nregister on Eventbrite\n.\n\n\nAt Drawn Together, we provide prompts and materials for you to experiment and explore with your visual art-making practice, all without the pressure of having to do it well.\n\n\nBecause of this one-night partnership, we’ll also have access to Interference Archive’s materials, which we’ll be using as part of our inspiration.\n\n\nThe mission of Interference Archive is to explore the relationship between cultural production and social movements. This work manifests in an open stacks archival collection, publications, a study center, and public programs including exhibitions, workshops, talks, and screenings, all of which encourage critical and creative engagement with the rich history of social movements.\n\n\nCome for the art-making, stay for a collection of visual media related to the history of activism and social movements around the world!\n\n\nTiming:\n Doors at 7. Come early to save your seat! Games begin at 7:30.\n\n\nSupplies:\n Pencils and paper will be provided, though you’re encouraged to bring your own supplies if you’d like.",
-      "startDate": "2025-04-17T19:00:00",
-      "endDate": "2025-04-17T21:00:00",
-      "category": [
-        "Community",
-        "Arts",
-        "Activism"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "Status Unknown"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [
-        "workshop",
-        "exhibition",
-        "screening",
-        "talk"
-      ],
-      "image": "interference-archive.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://interferencearchive.org/event/drawn-together-3/",
+        "source_url": "https://interferencearchive.org/event/free-noise/",
         "organizer": {
           "name": "Interference Archive",
           "email": "info@interferencearchive.org"
@@ -365,14 +360,14 @@
       }
     },
     {
-      "id": "evt_interference_ede2db13",
-      "name": "Zine Club",
+      "id": "evt_interference_7b6eab32",
+      "name": "Drawn Together",
       "type": "Community",
       "locationId": "loc_interference",
       "communityId": "com_interference",
-      "description": "New month, new zine club! This is an informal gathering with some materials provided (paper, scraps, scissors) but anything you want to bring to work with is very welcome. We’ll be making mini one-cut zines around topics of your choice with a bit of brainstorming built in. Come make friends, make a zine, trade a zine.",
-      "startDate": "2025-04-21T18:30:00",
-      "endDate": "2025-04-21T20:00:00",
+      "description": "Join us for a night of drawing and mark-making! Please \nregister on Eventbrite\n.\n\n\nAt Drawn Together, we provide prompts and materials for you to experiment and explore with your visual art-making practice, all without the pressure of having to do it well.\n\n\nBecause of this one-night partnership, we’ll also have access to Interference Archive’s materials, which we’ll be using as part of our inspiration.\n\n\nThe mission of Interference Archive is to explore the relationship between cultural production and social movements. This work manifests in an open stacks archival collection, publications, a study center, and public programs including exhibitions, workshops, talks, and screenings, all of which encourage critical and creative engagement with the rich history of social movements.\n\n\nCome for the art-making, stay for a collection of visual media related to the history of activism and social movements around the world!\n\n\nTiming:\n Doors at 7. Come early to save your seat! Games begin at 7:30.\n\n\nSupplies:\n Pencils and paper will be provided, though you’re encouraged to bring your own supplies if you’d like.",
+      "startDate": "2025-04-17T19:00:00",
+      "endDate": "2025-04-17T21:00:00",
       "category": [
         "Community",
         "Arts",
@@ -386,11 +381,16 @@
       },
       "capacity": null,
       "registrationRequired": false,
-      "tags": [],
+      "tags": [
+        "workshop",
+        "exhibition",
+        "screening",
+        "talk"
+      ],
       "image": "interference-archive.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://interferencearchive.org/event/zine-club-3/",
+        "source_url": "https://interferencearchive.org/event/drawn-together-3/",
         "organizer": {
           "name": "Interference Archive",
           "email": "info@interferencearchive.org"
@@ -404,14 +404,14 @@
       }
     },
     {
-      "id": "evt_interference_7f2f41db",
-      "name": "Zine Club",
+      "id": "evt_interference_9ce1cdd6",
+      "name": "Education Reading Group",
       "type": "Community",
       "locationId": "loc_interference",
       "communityId": "com_interference",
-      "description": "Please join us to make zines at Zine Club on the third Monday of every month! It is a casual, creative and welcoming space where you can make your own mini zine or work on an ongoing larger project. We have some limited supplies so please bring your own if you are able to.",
-      "startDate": "2025-05-19T18:30:00",
-      "endDate": "2025-05-19T20:00:00",
+      "description": "The Education Reading Group is a place where we plan to share and discuss readings about transformative teaching, political pedagogy, engaging education, and the like.\n\n\nWe will be meeting at \n8 pm on Tuesday May 13th\n to read\n \n“Bloodchild”\n \nby Octavia Butler. It is the titular story from the collection “Bloodchild and Other Stories,” a pdf is here: \nBloodchild\n\n\nIf you have the book and want to read more stories from the collection feel free, but it’s not necessary!\n\n\nHere is the jitsi link for the meeting: \nJitsi",
+      "startDate": "2025-05-13T20:00:00",
+      "endDate": "2025-05-13T21:30:00",
       "category": [
         "Community",
         "Arts",
@@ -429,7 +429,7 @@
       "image": "interference-archive.jpg",
       "status": "upcoming",
       "metadata": {
-        "source_url": "https://interferencearchive.org/event/zine-club-4/",
+        "source_url": "https://interferencearchive.org/event/education-reading-group-12/",
         "organizer": {
           "name": "Interference Archive",
           "email": "info@interferencearchive.org"

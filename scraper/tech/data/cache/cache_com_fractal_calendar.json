@@ -1,63 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_com_fractal__clr78b9",
-      "name": "\u26a1 Lightning Talks \ud83d\udcac",
-      "type": "Tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "\u200bWelcome to the Fractal Tech biweeklyLightning Talks!\u200bWhat's a Lightning talk?A short (5-10 minute) talk/demo/Q&A onanything you want!\u200bShipped a feature? Read a cool article? Want to show off what you're working on? Feel like ranting?\u200bSign up here!\u200bI ran this event at a past company to very positive response; even those hesitant to present ended up inspired after their first talk, with many return presenters. I think we could use this same energy at Fractal Tech, as well as a space to share with our peers.\u200bInterested in presenting?Please sign upif you've got even the vaguest idea of something you'd like to talk about. It doesn't have to be \"impressive\"; the simpler the better. You're especially welcome if its you're new to speaking in public!",
-      "startDate": "2025-05-16T20:00:00Z",
-      "endDate": "2025-05-16T20:30:00Z",
-      "category": [
-        "Tech"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": "",
-      "image": "luma-event-c14b6936.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source_url": "https://lu.ma/mruvfcx8",
-        "organizer": {
-          "name": "Fractal Tech: NYC",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [
-          {
-            "name": "eugene dobry",
-            "title": "",
-            "bio": ""
-          },
-          {
-            "name": "eugene dobry",
-            "title": "",
-            "bio": ""
-          }
-        ],
-        "social_links": [
-          "https://instagram.com/gingervitiz",
-          "https://x.com/_gingervitiz",
-          "https://instagram.com/gingervitiz",
-          "https://x.com/_gingervitiz"
-        ],
-        "featured": false,
-        "luma_source": true
-      }
-    },
-    {
       "id": "evt_com_fractal__clr78ba",
       "name": "Maximum New York May Party & Abundance Politics Accelerator",
       "type": "Tech",
@@ -307,6 +250,63 @@
           "https://x.com/surkumference",
           "https://x.com/JakeZegil",
           "https://x.com/patxnoir"
+        ],
+        "featured": false,
+        "luma_source": true
+      }
+    },
+    {
+      "id": "evt_com_fractal__clr78b9",
+      "name": "\u26a1 Lightning Talks \ud83d\udcac",
+      "type": "Tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "\u200bWelcome to the Fractal Tech biweeklyLightning Talks!\u200bWhat's a Lightning talk?A short (5-10 minute) talk/demo/Q&A onanything you want!\u200bShipped a feature? Read a cool article? Want to show off what you're working on? Feel like ranting?\u200bSign up here!\u200bI ran this event at a past company to very positive response; even those hesitant to present ended up inspired after their first talk, with many return presenters. I think we could use this same energy at Fractal Tech, as well as a space to share with our peers.\u200bInterested in presenting?Please sign upif you've got even the vaguest idea of something you'd like to talk about. It doesn't have to be \"impressive\"; the simpler the better. You're especially welcome if its you're new to speaking in public!",
+      "startDate": "2025-05-23T20:00:00Z",
+      "endDate": "2025-05-23T20:30:00Z",
+      "category": [
+        "Tech"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": "",
+      "image": "luma-event-c14b6936.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source_url": "https://lu.ma/mruvfcx8",
+        "organizer": {
+          "name": "Fractal Tech: NYC",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [
+          {
+            "name": "eugene dobry",
+            "title": "",
+            "bio": ""
+          },
+          {
+            "name": "eugene dobry",
+            "title": "",
+            "bio": ""
+          }
+        ],
+        "social_links": [
+          "https://instagram.com/gingervitiz",
+          "https://x.com/_gingervitiz",
+          "https://instagram.com/gingervitiz",
+          "https://x.com/_gingervitiz"
         ],
         "featured": false,
         "luma_source": true
